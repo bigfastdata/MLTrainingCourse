@@ -19,6 +19,10 @@ We will (tentatively) be following this schedule:
 | 9/14 | Ch 20     | Clustering               |
 | 9/21 | Ch 21-23  | Use Cases: NLP, Nets, Rec|
 
+Jupyter Notebook
+----------------
+You can access the Jupyter Notebook at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bigfastdata/MLTrainingCourse/2022Spring?labpath=WSG2022Spring)
+
 Book
 -----
 We are using [Data Science from Scratch](https://read.amazon.com/kp/embed?asin=B07QPC8RZX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_QW18FP7G9SA4A12S7VQG) by Joel Grus for this Work Study. 
