@@ -35,10 +35,10 @@ plt.xlabel('xs')
 plt.ylabel('ys')
 plt.legend(loc=9)
 plt.title("Very Different Joint Distributions")
-# plt.show()
+plt.show()
 
 
-plt.savefig('im/working_scatter.png')
+#plt.savefig('working_scatter.png')
 plt.gca().clear()
 
 
@@ -145,7 +145,7 @@ assert try_parse_row(["MSFT", "2018-12-14", "106.03"]) == stock
 from dateutil.parser import parse
 import csv
 
-with open("stocks.csv", "r") as f:
+with open("data/stocks.csv", "r") as f:
     reader = csv.DictReader(f)
     rows = [[row['Symbol'], row['Date'], row['Close']]
             for row in reader]
