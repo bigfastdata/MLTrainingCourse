@@ -14,10 +14,12 @@ We will (tentatively) be following this schedule:
 | 8/15 | Ch 13     | Naive Bayes Modeling     |
 | 8/22 | Ch 14-16  | Regression Modeling      |
 | 8/29 | Ch 17     | Decision Trees           |
-| 9/5  | Ch 18     | Neural Networks          |
-| 9/12 | Ch 19     | Deep Learning            |
-| 9/19 | Ch 20     | Clustering               |
-| 9/26 | Ch 21-23  | Use Cases: NLP, Nets, Rec|
+| 9/5  | (holiday) | (Labor Day)              |
+| 9/12 | Ch 18     | Neural Networks          |
+| 9/19 | Ch 19     | Deep Learning            |
+| 9/26 | Ch 20     | Clustering               |
+| 10/3 | Ch 21-23  | Use Cases: NLP, Nets, Rec|
+
 
 Jupyter Notebook
 ----------------
